@@ -29,6 +29,8 @@ Temporarily bypasses buggy audio processing by:
 - **Non-destructive**: Original file remains unchanged
 - **Auto-reverting**: Disabling module restores original file
 
+<img src="/src/image.png" alt="Neo Store's icon" width="500" height="331"/>
+
 ## 📖 FAQ
 - This is a temporary workaround, not a permanent fix
 - May disable wanted audio enhancements (VoIP noise suppression, etc.)\
