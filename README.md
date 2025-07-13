@@ -9,6 +9,7 @@
 
 [![Latest stable release version](https://img.shields.io/badge/Magisk-20%2B-orange?logo=android?style=flat&labelColor=AAFFAA&color=00AA44)](https://github.com/topjohnwu/Magisk)
 [![Github downloads](https://img.shields.io/github/license/Rafee-M/MagiskEchoFix?style=flat&labelColor=AAFFAA&color=00AA44)](https://github.com/NeoApplications/Neo-Store/releases/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRafee-M%2FMagiskEchoFix&labelColor=%23aaffaa&countColor=%2300aa44&style=flat)
 
 </div>
 
