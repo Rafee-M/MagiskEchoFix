@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/src/logo.png" alt="Neo Store's icon" width="190" height="190"/>
+  <img src="/src/logo.png" alt="Main icon" width="190" height="190"/>
   <br>
   Magisk Echo Fix
 </h1>
