@@ -1,0 +1,6 @@
+id=magiskechofix
+name=Magisk Echo Fix
+version=1.0
+versionCode=1
+author=Rafee-M
+description=Replaces audio_effects.xml via bind mount to fix echo issues
