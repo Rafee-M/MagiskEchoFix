@@ -37,8 +37,8 @@ Temporarily bypasses buggy audio processing by:
 - Effectiveness varies by device manufacturer
 
 ### Installation
-1. Download the latest release
-2. Install via Magisk Manager
+1. Download the [latest release](https://github.com/Rafee-M/MagiskEchoFix/releases/latest)
+2. Install via [Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
 3. Reboot your device
 
 ### Removal
